@@ -1,0 +1,1 @@
+<PASTE THE insights.js CODE FROM ABOVE HERE>
