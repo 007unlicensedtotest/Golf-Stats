@@ -1,0 +1,20 @@
+export const WHIPSNADE_PAR_TARGETS = [
+  { hole: 1, par: 4, target: 5 },
+  { hole: 2, par: 4, target: 5 },
+  { hole: 3, par: 3, target: 4 },
+  { hole: 4, par: 4, target: 5 },
+  { hole: 5, par: 4, target: 5 },
+  { hole: 6, par: 5, target: 6 },
+  { hole: 7, par: 4, target: 5 },
+  { hole: 8, par: 3, target: 4 },
+  { hole: 9, par: 4, target: 5 },
+  { hole: 10, par: 4, target: 5 },
+  { hole: 11, par: 5, target: 6 },
+  { hole: 12, par: 3, target: 4 },
+  { hole: 13, par: 4, target: 5 },
+  { hole: 14, par: 4, target: 5 },
+  { hole: 15, par: 5, target: 6 },
+  { hole: 16, par: 3, target: 4 },
+  { hole: 17, par: 4, target: 5 },
+  { hole: 18, par: 4, target: 5 }
+];
