@@ -145,8 +145,11 @@ export default function App() {
   }
 
   if (view === "summary") {
-    const last = rounds[rounds.length - 1];
-    const insights = generateInsights(last);
+
+// In summary view
+const last = rounds[rounds.length - 1];
+const pastRounds = rounds.slice(0, -1); // all rounds before this one
+const insights = generateInsights(last, pastRounds);
 
     return (
       <div className="container">
